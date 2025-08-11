@@ -84,7 +84,7 @@ Zomato_EDA/
  # 🤝 How to Contribute
 - Fork the repository
 
-- Create your feature branch (git checkout -b feature/AmazingFeature)
+- Create your feature branch (git checkout -b feature/AmazingFeature)      
 
 - Commit your changes (git commit -m 'Add some AmazingFeature')
 
@@ -97,4 +97,4 @@ Zomato_EDA/
 
  # ✉️ Contact
 [waleed Afridi] - [paltu7150gmail.com]
-Project Link: https://github.com/WaleedAfridi-1/zomato-restaurant dataset
+Project Link: https://github.com/WaleedAfridi-1/zomato-restaurant-eda
