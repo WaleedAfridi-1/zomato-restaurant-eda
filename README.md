@@ -24,7 +24,7 @@ This project explores the **Zomato Restaurants Dataset** to uncover insights abo
 ## 🔍 Key Insights
 
 ### 1. Online Delivery vs. Offline Restaurants
-![Online Delivery Bar Plot](barplot_Has_online_deliver.png)
+![Online Delivery Bar Plot](plots/barplot_Has_online_deliver.png)
 - Significant portion of restaurants offer online delivery
 - Many still operate offline, indicating growth potential for digital ordering platforms
 
